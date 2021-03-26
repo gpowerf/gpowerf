@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpowerf
-- 👀 I’m interested in text adventures, the history of gaming, coding practises, and Agile. 
+- 👀 I’m interested in text adventures, the history of gaming, management, and Agile. 
 - 🌱 I’m currently learning Python. 
 - 💞️ I’m looking to collaborate on small Commodore based projects.
 - 📫 How to reach me on Twitter @gpowerf
