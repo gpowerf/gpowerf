@@ -1,5 +1,6 @@
 - Hi, I’m @gpowerf
 - My day job is as a senior development manager for a multinational tech corporation.
+- I've been CTO of two separate startups.
 - I was a C# developer for many years.
 - I’m interested in text adventures, the history of gaming, management, and Agile. 
 - I’m currently learning Python. 
