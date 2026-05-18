@@ -1,5 +1,5 @@
 - Hi, I’m @gpowerf
-- AI Leader & HCI Expert | ex-CTO, PhD in Conversational AI
+- AI Leader & HCI Expert | ex-CTO, PhD in Conversational AI | Retro computing enthusiast 
 
 <!---
 gpowerf/gpowerf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
